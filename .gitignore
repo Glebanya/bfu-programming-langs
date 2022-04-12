@@ -1,5 +1,6 @@
 
 *.pyc
+sharp/App/App/bin/
 sharp/App/App/obj/
 sharp/App/App/.vs/
 sharp/App/.vs/
